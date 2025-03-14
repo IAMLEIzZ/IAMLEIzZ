@@ -3,7 +3,7 @@
 - 🎓 计算机技术硕士
 - 💡 **Golang 后端开发、云计算、AI 应用、分布式系统、数据库**
 - 📫 如何联系我：[1399311818@qq.com]
-- 💻 热衷于开源和技术分享，喜欢挑战高性能、高并发的技术难题
+- 💻 热衷于开源和技术分享，喜欢挑战和学习
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/93f50043-52cf-4f69-86b5-f2616822a5a4" width="50%">
