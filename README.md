@@ -33,11 +33,12 @@
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a&labelWidth=100)
 
 ### 🛠️ DevOps & Tools  
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a&labelWidth=100)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a&labelWidth=100)
 ![](https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a&labelWidth=100)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a&labelWidth=100)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a&labelWidth=100)
 ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a&labelWidth=100)
+![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a&labelWidth=100)
 
 ### 🖥️ Operating Systems  
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a&labelWidth=100)
