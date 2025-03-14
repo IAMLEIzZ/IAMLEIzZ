@@ -6,3 +6,4 @@
 </div>
 
 ![亮色](https://raw.githubusercontent.com/IAMLEIzZ/IAMLEIzZ/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAMLEIzZ)](https://github.com/anuraghazra/github-readme-stats)
