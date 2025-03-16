@@ -1,7 +1,7 @@
 ## Hi here LEIzZ!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
 ###  🤔 About Me
-- 🎓 计算机技术硕士
-- 💡 **Golang 后端开发、云计算、AI 应用、分布式系统、数据库**
+- 🎓 CS硕士
+- 💡 **Golang 后端开发、AI 应用、云计算、分布式系统、数据库**
 - 📫 如何联系我：[1399311818@qq.com]
 - 💻 热衷于开源和技术分享，喜欢挑战和学习
 
