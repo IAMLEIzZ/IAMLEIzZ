@@ -1,8 +1,7 @@
 ## Hi here LEIzZ!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
 ###  🤔 About Me
-- 🎓 CS硕
-- 💡 **Golang 后端开发、AI 应用、云计算、分布式系统、数据库**
-- 📫 如何联系我：[1399311818@qq.com]
+- **Golang 后端开发、AI、云计算、分布式系统**
+- 如何联系我：[1399311818@qq.com]
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/93f50043-52cf-4f69-86b5-f2616822a5a4" width="50%">
