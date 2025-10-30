@@ -14,7 +14,7 @@
     <li>Love to daydream and let my imagination run wild.</li>
     <li>Passionate about new technologies — my idol is Elon Musk.</li>
     <li>Why not enjoy a cup of coffee on a beautiful afternoon? </li>
-    <li>Big fan of R&B music.</li>
+    <li>Big fan of R&B.</li>
   </ul>
 </samp>
 </div>
